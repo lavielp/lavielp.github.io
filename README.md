@@ -1,3 +1,3 @@
 # lavielp's Notes from the IT world
 
-With a passion for (nearly) all things IT, I needed a space for keeping track of everything from architectural design and implementaton to ad-hoc scripts.  Many of the projects and problems we work on as IT professionals range from the strategic to the immediate and tactical and may range across multiple teams.  Project and architectural documentation is often distilled into formal documenation, tactical and immediate documenation is left in some sort of ticketing or messaging system.  Much of this documention is also left within the company, organization or team it was written for.
+There is an incredible amount of good advice for desinging and developing solutions in IT.  This is a curated collection of thoughts and principles that have been selected from that advice and professional conversations.

@@ -1,3 +1,5 @@
-theme: jekyll-theme-tactile
-title: Lavielle Home Page
-description: Collection of thoughts and development principals
+title: Close Encounters of the IT Kind
+description: Collection of thoughts and development principals from the IT world
+remote_theme: just-the-docs/just-the-docs
+plugins:
+- jekyll-remote-theme

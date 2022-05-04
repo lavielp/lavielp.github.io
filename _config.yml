@@ -3,4 +3,4 @@ description: Collection of thoughts and development principals from the IT world
 remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme
-footer_content: '/_includes/custom_footer.html'
+footer_content: 'Copyright &copy;  {{ "now" | date: "%Y" }}'

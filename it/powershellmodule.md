@@ -21,3 +21,7 @@ humans and maintainability in mind.
 Making sure the separate files are combined and tested after the combination process becomes a
 critical step in the deployment process.  The result, though, realizes both the benefits of a single
 psm1 file and human centric taxonomy.
+
+Ultimately, the module taxonomy is a compromise between computer performance and human readability
+for maintenance.  An ideal compromise on those two dimensions can be achieved with complexity on the
+dimension of packaging the module.

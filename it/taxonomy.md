@@ -28,8 +28,8 @@ ultimate issue is something an operations or help desk person can address next t
 Several specific document formats emerge from those 4 views.  A knowledge base will
 contain a "break fix" document and a "how to" document.  The network view will be a
 traditional network diagram which can show both an application centric view and
-server centric view.  A server document which contains specific informaiton such as
-IP address, name, installed applications and components.  And an applicaiton document
+server centric view.  A server document which contains specific information such as
+IP address, name, installed applications and components.  And an application document
 which addresses the overall application components which may include servers and
 network connectivity.
 

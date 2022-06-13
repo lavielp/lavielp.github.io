@@ -1,7 +1,7 @@
 # PowerShell Module Structure
 
 PowerShell modules at their most basic are just a psm1 file with a bunch of functions.  The file is
-imported into a PowerShell sessions and the functions can be called.  From there, the module can
+imported into a PowerShell sessions and then the functions can be called.  From there, the module can
 expand and become more useful.
 
 The next step is to have a module manifest whose file type is psd1 and contains a structure hash
@@ -25,3 +25,15 @@ psm1 file and human centric taxonomy.
 Ultimately, the module taxonomy is a compromise between computer performance and human readability
 for maintenance.  An ideal compromise on those two dimensions can be achieved with complexity on the
 dimension of packaging the module.
+
+## Current Taxonomy
+
+This is the current taxonomy I've landed on which is a collection of ideas that have been gathered
+from the PowerShell community.  The major components are common and supported by modules that have
+been released or adopted and supported by Microsoft.  Dozens of examples with minor variations can
+be found by browsing Github.  Figure 1 illustrates the directory structure.
+
+|
+|_docs
+|_Tests
+|_
